@@ -5,7 +5,7 @@ public class FuelCosts {
     public static void main(String[] args) {
 
         Scanner obj = new Scanner(System.in);
-        System.out.println("How many gallons of are gas are in your tank?");
+        System.out.println("How many gallons of gas are in your tank?");
         System.out.println("How many miles per gallon does your car go?");
         System.out.println("How much does gas cost per gallon?");
         double gallonsOfGas = 0;
